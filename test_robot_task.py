@@ -35,7 +35,8 @@ def main(
 You will receive an instruction from a user.
 The user's directive will be separated by {delimiter} characters.
 Please categorize the instruction into major and minor categories.
-And provide your output in json format with key values: primary (major category) and secondary (minor category).
+And provide your output in JSON format with key values: primary (major category) and secondary (minor category).
+Just output the JSON value, don't output any other text.
 
 Primary (main category): go somewhere, get items, clean up the mess, provide information, greeting or unsupported categories.
 
