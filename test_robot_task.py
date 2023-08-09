@@ -25,6 +25,7 @@ def main(
     )
 
     user_prompt = "I would like to go to the park."
+    user_prompt = "I really want to eat apples."
     delimiter = "####"
     dialogs = [
         [
